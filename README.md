@@ -7,7 +7,7 @@ In this project, I developed a **comprehensive pipeline** to `track`, `analyze`,
 
 The primary output of my analysis is a **time-series line chart** that visualizes the daily volume of news articles, categorized by sentiment (`Positive`, `Negative`, `Neutral`). This provides an at-a-glance understanding of how the media narrative evolves over time.
 
-![](sentiment_trend_chart.png)
+![Daily Media Sentiment Trend for Product Launch (iPhone 17)](sentiment_trend_chart.png)
 
 
 ## 📋 Project Overview
