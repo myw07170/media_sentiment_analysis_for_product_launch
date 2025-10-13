@@ -55,7 +55,7 @@ def generate_visuals_and_report():
     plt.plot(daily_sentiment_counts.index, daily_sentiment_counts['Negative'], label='Negative', marker='x', linestyle=':')
 
     # Add titles and labels for clarity
-    plt.title('Daily Media Sentiment Trend for Product Launch', fontsize=16)
+    plt.title('Daily Media Sentiment Trend for Product Launch (iPhone 17)', fontsize=16)
     plt.xlabel('Date', fontsize=12)
     plt.ylabel('Number of Articles', fontsize=12)
     
